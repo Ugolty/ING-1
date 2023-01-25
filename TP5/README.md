@@ -1,5 +1,5 @@
 # README
-## TP 6-7 de programmation C
+## TP 5 de programmation C
 ### Table des matières
 1. [Compiler](#compiler)
 2. [Lancer l'exécutable](#exe)
